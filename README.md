@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anubhavmaity
 - 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning Zero to Hero NN (taught by Andrej Karpathy)
-- 💞️ I’m looking to collaborate on ML Engineering tools and libraries
+- 🌱 I’m currently learning fastai part2
+- 💞️ I’m looking to collaborate on Deep Learning projects
 - 📫 How to reach me: You can reach me at anubhavmaity7@gmail.com
 
 <!---
