@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anubhavmaity
 - 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning fastai part2
+- 🌱 I’m currently learning how deep learning learns
 - 💞️ I’m looking to collaborate on Deep Learning projects
 - 📫 How to reach me: You can reach me at anubhavmaity7@gmail.com
 
